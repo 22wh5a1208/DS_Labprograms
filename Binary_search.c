@@ -1,4 +1,4 @@
-// C program to implement recursive Binary Search
+// C program to implement Binary Search
 #include <stdio.h>
 int binarySearch(int arr[], int l, int r, int x)
 {
